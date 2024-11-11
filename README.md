@@ -1,13 +1,34 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshshukla97&label=Profile%20views&color=0e75b6&style=flat" alt="harshshukla97" /> </p>
-🌱 I’m currently expanding my Android development skills with a focus on Firebase, Jetpack Compose, and back-end integration to create seamless, user-centered apps.
 
-👯 Collaboration goal: Looking to connect with developers on mobile development projects and tech solutions that enhance user engagement and accessibility.
+- 🌱 I’m currently **expanding my Android development skills with a focus on Firebase, Jetpack Compose, and back-end integration to create seamless, user-centered apps.**
 
-🤝 I’m passionate about achieving mastery in full-stack development, optimizing app performance, and diving into the latest advancements in generative AI and API integration.
+- 👯 Collaboration goal: **Looking to connect with developers on mobile development projects and tech solutions that enhance user engagement and accessibility.**
 
-⚡ Fun fact When I'm not coding, I'm crafting digital experiences through music. From tuning guitars to creating music apps, I'm constantly exploring the intersection of tech and melody.
+- 🤝 I’m passionate about **achieving mastery in full-stack development, optimizing app performance, and diving into the latest advancements in generative AI and API integration.**
 
-<h3 align="left">Connect with me:</h3> <p align="left"> <a href="https://www.linkedin.com/in/harsh-shukla/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsh-shukla" height="30" width="40" /></a> </p> <h3 align="left">Languages and Tools:</h3> <p align="left"> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.android.com/jetpack/compose" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/android/android-official.svg" alt="jetpack-compose" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" alt="kotlin" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://figma.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> </p> <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshshukla97&show_icons=true&locale=en&layout=compact" alt="harshshukla97" /></p> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshshukla97&show_icons=true&locale=en" alt="harshshukla97" /></p> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshshukla97&" alt="harshshukla97" /></p>
+- ⚡ Fun fact **When I'm not coding, I'm crafting digital experiences through music. From tuning guitars to creating music apps, I'm constantly exploring the intersection of tech and melody.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/harsh-shukla/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsh-shukla" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+  <a href="https://developer.android.com/jetpack/compose" target="_blank" rel="noreferrer"> <img src="https://developer.android.com/static/images/jetpack/compose-icon@2x.png" alt="jetpack-compose" width="40" height="40"/> </a>
+  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
+  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" alt="kotlin" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshshukla97&show_icons=true&locale=en&layout=compact" alt="harshshukla97" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshshukla97&show_icons=true&locale=en" alt="harshshukla97" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshshukla97&" alt="harshshukla97" /></p>
+
 
 <details>	
  <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
