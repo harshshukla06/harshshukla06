@@ -32,15 +32,6 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
-
-
-<!-- GitHub Stats Card -->
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshshukla06&show_icons=true&locale=en&layout=compact" alt="harshshukla06" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshshukla06&show_icons=true&locale=en" alt="harshshukla06" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshshukla06&" alt="harshshukla06" /></p>
-
 <details>	
  <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
