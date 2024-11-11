@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harsh Shukla</h1>
 <h3 align="center">A passionate Android developer from India</h3>
+<img align="right" alt="Coding Boy" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
 
@@ -11,7 +12,7 @@
 
 - 🤝 I’m passionate about **achieving mastery in full-stack development, optimizing app performance, and diving into the latest advancements in generative AI and API integration.**
 
-- ⚡ Fun fact **When I'm not coding, I'm crafting digital experiences through music. From tuning guitars to creating music apps, I'm constantly exploring the intersection of tech and melody.**
+- ⚡ Fun fact: **When I'm not coding, I'm crafting digital experiences through music. From tuning guitars to creating music apps, I'm constantly exploring the intersection of tech and melody.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
