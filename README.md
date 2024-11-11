@@ -23,15 +23,13 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
-<!-- GitHub Top Languages Card -->
-<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=harshshukla97&show_icons=true&locale=en&layout=compact" alt="harshshukla97" /></p>
 
 <!-- GitHub Stats Card -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pragyaa3&show_icons=true&locale=en&layout=compact" alt="pragyaa3" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshshukla06&show_icons=true&locale=en&layout=compact" alt="harshshukla06" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pragyaa3&show_icons=true&locale=en" alt="pragyaa3" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshshukla06&show_icons=true&locale=en" alt="harshshukla06" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pragyaa3&" alt="pragyaa3" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshshukla06&" alt="harshshukla06" /></p>
 
 <details>	
  <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
