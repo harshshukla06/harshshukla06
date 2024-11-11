@@ -27,10 +27,11 @@
 <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=harshshukla97&show_icons=true&locale=en&layout=compact" alt="harshshukla97" /></p>
 
 <!-- GitHub Stats Card -->
-<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=harshshukla97&show_icons=true&locale=en" alt="harshshukla97" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pragyaa3&show_icons=true&locale=en&layout=compact" alt="pragyaa3" /></p>
 
-<!-- GitHub Streak Stats -->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshshukla97&" alt="harshshukla97" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pragyaa3&show_icons=true&locale=en" alt="pragyaa3" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pragyaa3&" alt="pragyaa3" /></p>
 
 <details>	
  <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
