@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harsh Shukla</h1>
 <h3 align="center">A passionate Android developer from India</h3>
-<img align="right" alt="Coding Boy" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<!--<img align="right" alt="Coding Boy" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">-->
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="350"> 
 
 
 
