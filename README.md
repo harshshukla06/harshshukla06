@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshshukla97&label=Profile%20views&color=0e75b6&style=flat" alt="harshshukla97" /> </p>
 
-- 🌱 I’m currently **expanding my Android development skills with a focus on Firebase, Compose, and back-end integration to create seamless, user-centered apps.**
+- 🌱 I’m currently **expanding my Android development skills with a focus on Kotlin, Firebase, Compose, and back-end integration to create seamless, user-centered apps.**
 
 - 👯 Collaboration goal: **Looking to connect with developers on mobile development projects and tech solutions that enhance user engagement and accessibility.**
 
